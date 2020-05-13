@@ -1,3 +1,3 @@
 ## ReactJS + MobX
 
-Projeto básico para entender o conceito do MobX.
+Projeto básico para entender o conceito do MobX com typescript.
